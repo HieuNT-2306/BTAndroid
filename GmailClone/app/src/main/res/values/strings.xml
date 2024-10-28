@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gmail_RecycleView</string>
+    <string name="close">Closing\n</string>
+</resources>
