@@ -1,4 +1,4 @@
-package com.huudung.gmail_recycleview
+package com.hieunt.gmail_recycleview
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
